@@ -1,0 +1,22 @@
+
+.shadowDiv{
+  
+  border: 1px solid;
+  padding: 10px;
+
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+.card {
+  margin: auto;
+  max-width: 950px;
+  width: 90%;
+ 
+ 
+}
+.card:hover{
+ 
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 1rem;
+  border: transparent
+}
